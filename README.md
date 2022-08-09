@@ -1,1 +1,2 @@
 # Direct-Mail-Marketing-Project
+This is a project that predicts if the consumers will respond to direct mail marketing campaing. The dataset includes almost 20,000 people data with more than 120 features. The project shows some insight and trends and answers some questions about consumers behaviour. The project is coded in Python on Jupyter notebook and Python libraries such as Pandas, numpy, seaborn, matplotlip and sklearn are used to model a classification predictor. The model predicts with 97% accuracy and can easily be implemented to real life applications.  
